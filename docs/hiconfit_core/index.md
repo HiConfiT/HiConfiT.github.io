@@ -2,9 +2,9 @@
 layout: default
 title: hiconfit-core
 nav_order: 3
-<!-- has_children: true -->
+has_children: true
 permalink: hiconfit_core
-<!-- has_toc: true -->
+has_toc: true
 ---
 
 # hiconfit-core
@@ -58,28 +58,6 @@ flowchart BT
     end
 ```
 
-```mermaid
-flowchart BT
-    subgraph hiconfit-core
-        A([common]) B([csp2choco])
-        A C([fm])
-        A D([eval])
-        D F([kb])
-        C F
-        F G([ca-cdr-core])
-        G H([cdrmodel])
-        B H
-        G I([heuristics])
-        H J([ca-cdr])
-        I L([configurator])
-        J L
-        J K([fma])
-    end
-    subgraph Third-party libraries
-        E([sxfm]) C
-    end
-```
-
 <!-- Links -->
 <!-- [References]: /references -->
 <!-- [ca-cdr]: ca-cdr -->
@@ -89,7 +67,7 @@ flowchart BT
 <!-- [fm]: fm -->
 <!-- [eval]: eval -->
 <!-- [csp2choco]: csp2choco -->
-<!-- [common]: common -->
+[common]: common
 <!-- [fma]: fma -->
 <!-- [configurator]: configurator -->
 <!-- [heuristics]: heuristics -->
