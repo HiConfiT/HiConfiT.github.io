@@ -9,3 +9,5 @@ url: https://hiconfit.manleviet.info
 
 aux_links:
     HiConfiT on GitHub: https://github.com/HiConfiT
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
