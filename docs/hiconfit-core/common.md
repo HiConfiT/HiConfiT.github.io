@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Common Utils
-parent: hiconfit-core
+parent: Core Library (hiconfit-core)
 nav_order: 1
-permalink: hiconfit_core/common
+permalink: hiconfit-core/common
 ---
 
 # Common Utils

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: hiconfit-core
+title: Core Library (hiconfit-core)
 nav_order: 3
 has_children: true
-permalink: hiconfit_core
+permalink: hiconfit-core
 has_toc: true
 ---
 
