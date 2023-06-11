@@ -5,6 +5,7 @@ title: HiConfiT
 favicon_ico: "/assets/images/hiconfit.png"
 description: High Performance Knowledge Based Configuration Techniques
 theme: just-the-docs
+baseurl: "/"
 
 # url: https://just-the-docs.github.io
 url: https://hiconfit.manleviet.info

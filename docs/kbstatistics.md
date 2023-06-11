@@ -2,6 +2,7 @@
 layout: default
 title: KBStatistics
 nav_order: 5
+permalink: kbstatistics
 ---
 
 # A Knowledge Base Statistics Tool

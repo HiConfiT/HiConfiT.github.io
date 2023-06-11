@@ -2,6 +2,7 @@
 layout: default
 title: References
 nav_order: 8
+permalink: references
 ---
 
 # References
