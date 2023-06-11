@@ -53,7 +53,7 @@ If our implementations are utilised in your research, kindly cite the correspond
 
 <!-- Links  -->
 [Knowledge-Based Configuration Systems]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
-[hiconfit-core]: hiconfit_core
+[hiconfit-core]: hiconfit-core
 [KBStatistics]: kbstatistics
 [FMGen]: fm-gen
 [Get libraries]: get_libraries
