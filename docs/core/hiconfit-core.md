@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Core Libary (hiconfit-core)
+title: hiconfit_core
 nav_order: 3
 has_children: true
-permalink: hiconfit-core
+permalink: core
 has_toc: true
 ---
 
@@ -22,10 +22,14 @@ has_toc: true
 
 _**ca-cdr**_ is a library for Consistency-based Algorithms for Conflict Detection and Resolution.
 
-
+<!-- {: .highlight } -->
+**Conflict Detection and Resolution** is a substantial task in **Knowledge Base Engineering** (KBE). Intelligent mechanisms are urgently needed, especially in large-scale knowledge bases. This libarry publishes our implementations for some/our consistency-based algorithms, which can be utilized in all three phases of KBE, i.e., _design_, _testing and debugging_, and _configuration_.
 
 ### fma
-fma - a library for Feature Model Testing and Debugging
+
+_**fma**_ is a library for Feature Model Testing and Debugging.
+
+
 
 ### configurator
 
@@ -82,7 +86,7 @@ flowchart BT
 <!-- [fm]: fm -->
 <!-- [eval]: eval -->
 <!-- [csp2choco]: csp2choco -->
-[common]: /hiconfit-core/common
+[common]: common
 <!-- [fma]: fma -->
 <!-- [configurator]: configurator -->
 <!-- [heuristics]: heuristics -->
