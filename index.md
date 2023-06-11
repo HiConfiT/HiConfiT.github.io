@@ -1,32 +1,65 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+We offer a range of open-source libraries and tools to aid in research and development in the field of [Knowledge-Based Configuration Systems].
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This site provides the documentation of the following Java library and apps:
 
-More specifically, the created site:
+1. [hiconfit-core]
+2. [KBStatistics]
+3. [FMGen]
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+To use **hiconfit-core**, please first follow the guide in [Get libraries].
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Used by
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+**hiconfit-core** are used by the following projects:
 
-To get started with creating a site, just click "[use this template]"!
+1. [FMTesting] - A Eclipse plug-in for feature model testing and debugging
+2. A Python implementation of **hiconfit-core**'s algorithms can be found in [FlamaPy]
+3. A Restful Webservice for developing product configurators with the following state-of-art technologies:
+    - Domain reduction - decreases options that a user can select on the basis of previous selections of the user
+    - Matrix Factorization-based Configuration and Recommendation - identifies Value Variable Heuristics on the basis of user requirements
+    - Reordering the order of component's options on the basis of the Value Variable Heuristic
+    - Conflict and diagnosis detection
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+and also used in the following published papers:
 
-----
+1. A. Felfernig, V.M. Le, S. Lubos. 2023. Conjunctive Query Based Constraint Solving For Feature Model Configuration. *In 12th Conference on Information Technology and Its Applications*. CITA’23, Danang, Vietnam. [[arXiv](https://arxiv.org/pdf/2304.13422.pdf)]
+2. V.M. Le, C.V. Silva, A. Felfernig, T.N.T. Tran, J. Galindo, D. Benavides. 2023. FastDiagP: An Algorithm for Parallelized Direct Diagnosis. *In 37th AAAI Conference on Artificial Intelligence*. AAAI’23, Washington, DC, USA. [[arXiv](https://arxiv.org/pdf/2305.06951.pdf)]
+3. V.M. Le, A. Felfernig, and T.N.T. Tran. 2022. Test Case Aggregation for Efficient Feature Model Testing, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3503229.3547046)]
+4. V.M. Le, A. Felfernig, M. Uta, T.N.T. Tran, and C. Vidal. 2022. WipeOutR: Automated Redundancy Detection for Feature Models, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3546932.3546992)]
+5. M. Uta, A. Felfernig, D. Helic, and V.M. Le. 2022. Accuracy- and consistency-aware recommendation of configurations. *In 26th ACM International Systems and Software Product Line Conference (SPLC '22)*. [[ACM](https://doi.org/10.1145/3546932.3546996)]
+6. V.M. Le, A. Felfernig, T.N.T. Tran, M. Atas, M. Uta, D. Benavides, J. Galindo. 2021. DirectDebug: A software package for the automated testing and debugging of feature models. *Software Impacts, Volume 9*. [[Elsevier](https://doi.org/10.1016/j.simpa.2021.100085)]
+7. V.M. Le, A. Felfernig, M. Uta, D. Benavides, J. Galindo, and T.N.T. Tran. 2021. DirectDebug: Automated Testing and Debugging of Feature Models. *IEEE/ACM 43rd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*. [[IEEE](https://doi.org/10.1109/ICSE-NIER52604.2021.00025)]
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## Development team
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- [Mẫn] (Graz University of Technology, Austria)
+- [Tamim] (Graz University of Technology, Austria)
+
+## Connect with us
+
+- For more information about the projects, support requests, and technical questions, do not hesitate to contact us.
+- Report and discuss issues on our corresponding [GitHub repositories].
+- We welcome contributions from anyone.
+
+## Citing
+
+If our implementations are utilised in your research, kindly cite the corresponding papers listed in the [References].
+
+<!-- Links  -->
+[Knowledge-Based Configuration Systems]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
+[hiconfit-core]: hiconfit_core
+[KBStatistics]: kbstatistics
+[FMGen]: fm-gen
+[Get libraries]: get_libraries
+[Mẫn]: https://github.com/manleviet
+[Tamim]: https://github.com/taburg
+[GitHub repositories]: https://github.com/HiConfiT
+[References]: references
+[FMTesting]: https://github.com/AIG-ist-tugraz/FMTesting
+[FlamaPy]: https://flamapy.github.io
