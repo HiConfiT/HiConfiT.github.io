@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hiconfit-core
+title: Core Libary (hiconfit-core)
 nav_order: 3
 has_children: true
 permalink: hiconfit-core
@@ -16,11 +16,24 @@ has_toc: true
 
 **hiconfit-core** provides a set of Maven-based libraries for High-Performance Knowledge Based Configuration Techniques.
 
+## Key libraries
+
+### ca-cdr
+
+_**ca-cdr**_ is a library for Consistency-based Algorithms for Conflict Detection and Resolution.
 
 
-## What hiconfit-core provide
 
-It is organized in 11 following Maven libraries:
+### fma
+fma - a library for Feature Model Testing and Debugging
+
+### configurator
+
+a compact knowledge-based configurator supporting Matrix Factorization-based Configuration and Recommendation
+
+## All libarreis of hiconfit-core
+
+**hiconfit-core** is organized in 11 following Maven libraries:
 
 | *library*                                       | *description*                            |
 |:----------------------------------------------|:------------------------------------------|
