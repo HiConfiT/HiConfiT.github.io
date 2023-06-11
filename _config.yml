@@ -55,6 +55,9 @@ callouts:
 ga_tracking: G-DKNNGSKV4Q
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
+# For copy button on code
+enable_copy_code_button: true
+
 kramdown:
     syntax_highlighter_opts:
         block:
