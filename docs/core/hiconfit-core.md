@@ -20,22 +20,21 @@ has_toc: true
 
 ### ca-cdr
 
-_**ca-cdr**_ is a library for Consistency-based Algorithms for Conflict Detection and Resolution.
+[_**ca-cdr**_] is a library of Consistency-based Algorithms for Conflict Detection and Resolution.
 
-<!-- {: .highlight } -->
-**Conflict Detection and Resolution** is a substantial task in **Knowledge Base Engineering** (KBE). Intelligent mechanisms are urgently needed, especially in large-scale knowledge bases. This libarry publishes our implementations for some/our consistency-based algorithms, which can be utilized in all three phases of KBE, i.e., _design_, _testing and debugging_, and _configuration_.
+_Conflict Detection and Resolution_ (CDR) is a substantial task in _Knowledge Base Engineering_ (KBE). [_**ca-cdr**_] publishes our implementations of CDR consistency-based algorithms, which can be utilized in all three phases of KBE, i.e., _design_, _testing and debugging_, and _configuration_.
 
 ### fma
 
-_**fma**_ is a library for Feature Model Testing and Debugging.
+[_**fma**_] is a library for Feature Model Testing and Debugging.
 
-
+The library provides a mechanism to automatically generate property-based test cases and allows the automated determination of faulty elements in feature models.
 
 ### configurator
 
-a compact knowledge-based configurator supporting Matrix Factorization-based Configuration and Recommendation
+[_**configurator**_] offers a compact knowledge-based configurator that supports the state-of-the-art Matrix Factorization-based Configuration and Recommendation.
 
-## All libarreis of hiconfit-core
+## All libraries of hiconfit-core
 
 **hiconfit-core** is organized in 11 following Maven libraries:
 
@@ -79,6 +78,7 @@ flowchart BT
 
 <!-- Links -->
 <!-- [References]: /references -->
+<!-- [_**ca-cdr**_]: ca-cdr -->
 <!-- [ca-cdr]: ca-cdr -->
 <!-- [cdrmodel]: cdrmodel -->
 <!-- [ca-cdr-core]: ca-cdr-core -->
@@ -86,7 +86,7 @@ flowchart BT
 <!-- [fm]: fm -->
 <!-- [eval]: eval -->
 <!-- [csp2choco]: csp2choco -->
-[common]: common
+[common]: /core/common
 <!-- [fma]: fma -->
 <!-- [configurator]: configurator -->
 <!-- [heuristics]: heuristics -->
