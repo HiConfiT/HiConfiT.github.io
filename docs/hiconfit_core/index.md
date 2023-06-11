@@ -39,6 +39,28 @@ The following diagram shows the libraries' dependency.
 ```mermaid
 flowchart BT
     subgraph hiconfit-core
+        A([common]) --> B([csp2choco])
+        A --> C([fm])
+        A --> D([eval])
+        D --> F([kb])
+        C --> F
+        F --> G([ca-cdr-core])
+        G --> H([cdrmodel])
+        B --> H
+        G --> I([heuristics])
+        H --> J([ca-cdr])
+        I --> L([configurator])
+        J --> L
+        J --> K([fma])
+    end
+    subgraph Third-party libraries
+        E([sxfm]) --> C
+    end
+```
+
+```mermaid
+flowchart BT
+    subgraph hiconfit-core
         A([common]) B([csp2choco])
         A C([fm])
         A D([eval])
@@ -59,7 +81,7 @@ flowchart BT
 ```
 
 <!-- Links -->
-[References]: /references
+<!-- [References]: /references -->
 <!-- [ca-cdr]: ca-cdr -->
 <!-- [cdrmodel]: cdrmodel -->
 <!-- [ca-cdr-core]: ca-cdr-core -->

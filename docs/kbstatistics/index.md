@@ -88,5 +88,5 @@ java -jar kbstatistics.jar -fm-dir ./fms -kb PC Renault
 [CLib]: https://www.itu.dk/research/cla/externals/clib/
 [FeatureIDE]: https://featureide.github.io
 [Glencoe]: https://glencoe.hochschule-trier.de
-[here]: https://github.com/manleviet/KBStatistics/tree/main/src/test/resources/fms
+[here]: https://github.com/HiConfiT/KBStatistics/tree/main/src/test/resources/fms
 [Latest Java]: https://www.java.com/en/download/manual.jsp
