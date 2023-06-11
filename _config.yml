@@ -1,13 +1,13 @@
 title: HiConfiT
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/hiconfit.png"
 description: High Performance Knowledge Based Configuration Techniques
 theme: just-the-docs
 
 # url: https://just-the-docs.github.io
 url: https://hiconfit.manleviet.info
 
-# logo: "/assets/images/hiconfit.png"
-
 aux_links:
     HiConfiT on GitHub: https://github.com/HiConfiT
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
