@@ -2,7 +2,6 @@
 layout: default
 title: Get libraries
 nav_order: 2
-permalink: get_libraries
 ---
 
 # How to get the libraries

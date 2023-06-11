@@ -53,13 +53,13 @@ If our implementations are utilised in your research, kindly cite the correspond
 
 <!-- Links  -->
 [Knowledge-Based Configuration Systems]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
-[hiconfit-core]: hiconfit_core
-[KBStatistics]: kbstatistics
-[FMGen]: fm-gen
-[Get libraries]: get_libraries
+[hiconfit-core]: /docs/hiconfit-core
+[KBStatistics]: /docs/kbstatistics
+[FMGen]: /docs/fm-gen
+[Get libraries]: /docs/get_libraries
 [Mẫn]: https://github.com/manleviet
 [Tamim]: https://github.com/taburg
 [GitHub repositories]: https://github.com/HiConfiT
-[References]: references
+[References]: /docs/references
 [FMTesting]: https://github.com/AIG-ist-tugraz/FMTesting
 [FlamaPy]: https://flamapy.github.io

@@ -2,7 +2,6 @@
 layout: default
 title: FMGenerator
 nav_order: 6
-permalink: fm-gen
 ---
 
 # Synthesized Feature Model Generator
