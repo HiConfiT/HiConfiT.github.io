@@ -5,7 +5,7 @@ theme: just-the-docs
 # url: https://just-the-docs.github.io
 url: https://hiconfit.manleviet.info
 
-logo: "/assets/images/hiconfit.png"
+# logo: "/assets/images/hiconfit.png"
 
 aux_links:
-    GitHub: https://github.com/HiConfiT
+    HiConfiT on GitHub: https://github.com/HiConfiT
