@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Test
+title: hiconfit-core
 nav_order: 3
 <!-- has_children: true -->
-permalink: hiconfit-core
+permalink: hiconfit_core
 <!-- has_toc: true -->
 ---
 
