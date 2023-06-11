@@ -3,7 +3,7 @@ layout: default
 title: hiconfit-core
 nav_order: 3
 has_children: true
-permalink: /docs/hiconfit-core
+permalink: /hiconfit-core
 has_toc: true
 ---
 
@@ -14,11 +14,13 @@ has_toc: true
 <span style = "text-transform: lowercase">v1.0</span>
 {: .label .label-purple }
 
-**hiconfit-core** provides a set of Maven-based libraries for High-Performance Knowledge Based Configuration Techniques. It is organized in 11 following Maven libraries:
-
-<!-- ## What hiconfit-core provide -->
+**hiconfit-core** provides a set of Maven-based libraries for High-Performance Knowledge Based Configuration Techniques.
 
 
+
+## What hiconfit-core provide
+
+It is organized in 11 following Maven libraries:
 
 | *library*                                       | *description*                            |
 |:----------------------------------------------|:------------------------------------------|
@@ -67,7 +69,7 @@ flowchart BT
 <!-- [fm]: fm -->
 <!-- [eval]: eval -->
 <!-- [csp2choco]: csp2choco -->
-[common]: common
+[common]: /hiconfit-core/common
 <!-- [fma]: fma -->
 <!-- [configurator]: configurator -->
 <!-- [heuristics]: heuristics -->

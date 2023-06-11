@@ -3,6 +3,7 @@ layout: default
 title: Common Utils
 parent: hiconfit-core
 nav_order: 1
+permalink: /hiconfit-core/common
 ---
 
 # Common Utils
