@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hiconfit_core
+title: hiconfit-core
 nav_order: 3
 has_children: true
 permalink: core
