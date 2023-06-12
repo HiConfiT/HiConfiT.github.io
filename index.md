@@ -49,7 +49,7 @@ and also used in the following published papers:
 
 ## Citing
 
-If our implementations are utilised in your research, kindly cite the corresponding papers listed in the [References].
+If our implementations are utilized in your research, kindly cite the corresponding papers listed in the [References].
 
 <!-- Links  -->
 [Knowledge-Based Configuration Systems]: https://en.wikipedia.org/wiki/Knowledge-based_configuration
