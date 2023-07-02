@@ -28,13 +28,14 @@ To use **hiconfit-core**, please first follow the guide in [Get libraries].
 
 and also used in the following published papers:
 
-1. A. Felfernig, V.M. Le, S. Lubos. 2023. Conjunctive Query Based Constraint Solving For Feature Model Configuration. *In 12th Conference on Information Technology and Its Applications*. CITA’23, Danang, Vietnam. [[arXiv](https://arxiv.org/pdf/2304.13422.pdf)]
-2. V.M. Le, C.V. Silva, A. Felfernig, T.N.T. Tran, J. Galindo, D. Benavides. 2023. FastDiagP: An Algorithm for Parallelized Direct Diagnosis. *In 37th AAAI Conference on Artificial Intelligence*. AAAI’23, Washington, DC, USA. [[arXiv](https://arxiv.org/pdf/2305.06951.pdf)]
-3. V.M. Le, A. Felfernig, and T.N.T. Tran. 2022. Test Case Aggregation for Efficient Feature Model Testing, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3503229.3547046)]
-4. V.M. Le, A. Felfernig, M. Uta, T.N.T. Tran, and C. Vidal. 2022. WipeOutR: Automated Redundancy Detection for Feature Models, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3546932.3546992)]
-5. M. Uta, A. Felfernig, D. Helic, and V.M. Le. 2022. Accuracy- and consistency-aware recommendation of configurations. *In 26th ACM International Systems and Software Product Line Conference (SPLC '22)*. [[ACM](https://doi.org/10.1145/3546932.3546996)]
-6. V.M. Le, A. Felfernig, T.N.T. Tran, M. Atas, M. Uta, D. Benavides, J. Galindo. 2021. DirectDebug: A software package for the automated testing and debugging of feature models. *Software Impacts, Volume 9*. [[Elsevier](https://doi.org/10.1016/j.simpa.2021.100085)]
-7. V.M. Le, A. Felfernig, M. Uta, D. Benavides, J. Galindo, and T.N.T. Tran. 2021. DirectDebug: Automated Testing and Debugging of Feature Models. *IEEE/ACM 43rd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*. [[IEEE](https://doi.org/10.1109/ICSE-NIER52604.2021.00025)]
+1. S. Lubos, A. Felfernig, V.M. Le, T.N.T. Tran, D. Benavides, J.A. Zamudio, D. Garber. 2023. Analysis Operations On The Run: Feature Model Analysis in Constraint-based Recommender Systems. *In 27th ACM International Systems and Software Product Line Conference (SPLC 2023)*. **to appear**
+2. A. Felfernig, V.M. Le, S. Lubos. 2023. Conjunctive Query Based Constraint Solving For Feature Model Configuration. *In 12th Conference on Information Technology and Its Applications*. CITA’23, Danang, Vietnam. [[arXiv](https://arxiv.org/pdf/2304.13422.pdf)]
+3. V.M. Le, C.V. Silva, A. Felfernig, T.N.T. Tran, J. Galindo, D. Benavides. 2023. FastDiagP: An Algorithm for Parallelized Direct Diagnosis. *In 37th AAAI Conference on Artificial Intelligence*. AAAI’23, Washington, DC, USA. [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25792)]
+4. V.M. Le, A. Felfernig, and T.N.T. Tran. 2022. Test Case Aggregation for Efficient Feature Model Testing, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3503229.3547046)]
+5. V.M. Le, A. Felfernig, M. Uta, T.N.T. Tran, and C. Vidal. 2022. WipeOutR: Automated Redundancy Detection for Feature Models, *In 26th ACM International Systems and Software Product Line Conference (SPLC 2022)*. [[ACM](https://doi.org/10.1145/3546932.3546992)]
+6. M. Uta, A. Felfernig, D. Helic, and V.M. Le. 2022. Accuracy- and consistency-aware recommendation of configurations. *In 26th ACM International Systems and Software Product Line Conference (SPLC '22)*. [[ACM](https://doi.org/10.1145/3546932.3546996)]
+7. V.M. Le, A. Felfernig, T.N.T. Tran, M. Atas, M. Uta, D. Benavides, J. Galindo. 2021. DirectDebug: A software package for the automated testing and debugging of feature models. *Software Impacts, Volume 9*. [[Elsevier](https://doi.org/10.1016/j.simpa.2021.100085)]
+8. V.M. Le, A. Felfernig, M. Uta, D. Benavides, J. Galindo, and T.N.T. Tran. 2021. DirectDebug: Automated Testing and Debugging of Feature Models. *IEEE/ACM 43rd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)*. [[IEEE](https://doi.org/10.1109/ICSE-NIER52604.2021.00025)]
 
 ## Development team
 
