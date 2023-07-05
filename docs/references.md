@@ -25,3 +25,5 @@ permalink: references
 16. An evaluation of FastDiagP algorithm in [GitHub](https://github.com/AIG-ist-tugraz/FastDiagP).
 17. S. Lubos, A. Felfernig, V.M. Le, T.N.T. Tran, D. Benavides, J.A. Zamudio, D. Garber. 2023. Analysis Operations On The Run: Feature Model Analysis in Constraint-based Recommender Systems. *In 27th ACM International Systems and Software Product Line Conference (SPLC 2023)*. **to appear**
 18. Source code to accompany the paper *Analysis Operations On The Run: Feature Model Analysis in Constraint-based Recommender Systems*. [GitHub](https://github.com/AIG-ist-tugraz/AO4FMA/blob/main/README.md)
+19. A. Felfernig, V.M. Le, A. Haag, S. Lubos. 2023. Solving Constraint Satisfaction Problems with Database Queries. *In 25th International Workshop on Configuration (ConfWS 2023)*. Malaga, Spain. **to appear**
+20. S. Lubos, V.M. Le, A. Felfernig, T.N.T. Tran. 2023. Analysis Operations for Constraint-based Recommender Systems. *In 17th ACM Conference on Recommender Systems (RecSys 2023)*. Singapore. **to appear**
